@@ -1,0 +1,81 @@
+# Site wide configuration
+
+title:            Geobot Nine Thousand
+locale:           en_US
+url:
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+
+# Octopress
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
+
+# Site owner
+owner:
+  name: Georgio Mosqueda
+  avatar:
+  bio: "Hobbyist maker based in Las Vegas, NV."
+  email: georgio@gb9k.com
+  disqus-shortname:
+  twitter: georgiom
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-74411910-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: gb9k
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  xing: #username
+  instagram: geobot9k
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: lx_xl
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
+flickr:
+  screen_name: lx_xl
+  api_key: 9c5214445fa454ab9d9b55696a637501
+  api_secret: 4b2c6b17eab7ac3c
