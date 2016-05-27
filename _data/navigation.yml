@@ -3,5 +3,9 @@
 - title: About
   url: /about/
 
-- title: Recent Work
-  url: /portfolio/
+- title: Posts
+  url: /posts/
+
+- title: Recent Projects
+  url: /projects/
+
