@@ -7,8 +7,9 @@ tags: [ gameboy, raspberry pi, fusion360, design ]
 # comments: true
 # share: true
 header:
-  image: making-a-handheld/piboy_render1.png
+  image: /galleries/PiBoy/PiBoy2.jpg
   caption: "PiBoy Target Render"
+  teaser: /galleries/PiBoy/PiBoy2-th.jpg
 # author_profile: true
 ---
 
@@ -31,7 +32,7 @@ Anywho, a little over a year ago I was working as a reporting analyst; my most u
 
 ![That would be great meme](/images/making-a-handheld/thatdbegreat.jpg "Probably how my co-workers viewed me. I'm so sorry, guys. I regret everything!"){: .align-center}{: height="320px" width="320px"}
 
-Then I was let go. I decided to use my newfound free time to perform a battery of grueling scientific tests on how long a man can binge the typical gamer's weekend life on a Netflix sized scale. How to fund this endeavor? Between savings and a fun-sized annuity from an old workplace accident, there was barely just enough to cover the bills and pizza and beer. Now for the final reveal: **How long can a single man binge pizza, Guinness, Destiny and stay sane?** About two months-*ish*.
+Then I was let go. I decided to use my newfound free time to perform a battery of grueling scientific tests on how long a man can binge the typical gamer's weekend life on a Netflix sized scale. How to fund this endeavor? Between savings and a fun-sized annuity from an old workplace accident, there was barely just enough to cover the bills, pizza, and beer. Now for the final reveal: **How long can a single man binge pizza, Guinness, Destiny and stay sane?** About two months-*ish*.
 
 There are some long term effects, sure. It's hard to talk to people now without weirding *myself* out, but to get dates I can always fall back on looking pretty. What to do, now?
 

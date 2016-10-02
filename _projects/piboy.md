@@ -7,45 +7,45 @@ tags: [ gameboy, raspberry pi, fusion360, design ]
 comments: true
 share: true
 header:
-  image: making-a-handheld/piboy_render1.png
+  image: /galleries/PiBoy/PiBoy2.jpg
   caption: "PiBoy Target Render"
-  teaser: making-a-handheld/piboy_render1.png
+  teaser: /galleries/PiBoy/PiBoy2-th.jpg
 categories: projects
 gallery:
-  - url: /galleries/PiBoy/PiBoy1.png
-    image_path: /galleries/PiBoy/PiBoy1.png
+  - url: /galleries/PiBoy/PiBoy1.jpg
+    image_path: /galleries/PiBoy/PiBoy1-th.jpg
     alt: "Top-Right view of the PiBoy"
     title: "Production render of the PiBoy. The power switch is just a placeholder for now."
-  - url: /galleries/PiBoy/PiBoy2.png
-    image_path: /galleries/PiBoy/PiBoy2.png
+  - url: /galleries/PiBoy/PiBoy2.jpg
+    image_path: /galleries/PiBoy/PiBoy2-th.jpg
     alt:
     title:
-  - url: /galleries/PiBoy/PiBoy3.png
-    image_path: /galleries/PiBoy/PiBoy3.png
+  - url: /galleries/PiBoy/PiBoy3.jpg
+    image_path: /galleries/PiBoy/PiBoy3-th.jpg
     alt:
     title:
-  - url: /galleries/PiBoy/PiBoy4.png
-    image_path: /galleries/PiBoy/PiBoy4.png
+  - url: /galleries/PiBoy/PiBoy4.jpg
+    image_path: /galleries/PiBoy/PiBoy4-th.jpg
     alt:
     title:
-  - url: /galleries/PiBoy/PiBoy5.png
-    image_path: /galleries/PiBoy/PiBoy5.png
+  - url: /galleries/PiBoy/PiBoy5.jpg
+    image_path: /galleries/PiBoy/PiBoy5-th.jpg
     alt: "PiBoy with acrylic bumper"
     title: "Getting an idea how this would look with an acrylic bumper."
-  - url: /galleries/PiBoy/PiBoy6.png
-    image_path: /galleries/PiBoy/PiBoy6.png
+  - url: /galleries/PiBoy/PiBoy6.jpg
+    image_path: /galleries/PiBoy/PiBoy6-th.jpg
     alt:
     title:
-  - url: /galleries/PiBoy/PiBoy7.png
-    image_path: /galleries/PiBoy/PiBoy7.png
+  - url: /galleries/PiBoy/PiBoy7.jpg
+    image_path: /galleries/PiBoy/PiBoy7-th.jpg
     alt:
     title:  
-  - url: /galleries/PiBoy/PiBoy8.png
-    image_path: /galleries/PiBoy/PiBoy8.png
+  - url: /galleries/PiBoy/PiBoy8.jpg
+    image_path: /galleries/PiBoy/PiBoy8-th.jpg
     alt: "PiBoy with white faceplates and anodized black aluminum bumpers"
     title: "PiBoy with white faceplates and anodized black aluminum bumpers"
-  - url: /galleries/PiBoy/Gamepad.png
-    image_path: /galleries/PiBoy/Gamepad.png
+  - url: /galleries/PiBoy/Gamepad.jpg
+    image_path: /galleries/PiBoy/Gamepad-th.jpg
     alt: "EagleCAD capture of the gamepad PCB layout"
     title: "EagleCAD capture of the gamepad PCB layout"
 ---

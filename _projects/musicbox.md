@@ -7,29 +7,29 @@ tags: [ fusion360, design, music box ]
 comments: true
 share: true
 header:
-  image: /galleries/musicbox/musicbox1.png
+  image: /galleries/musicbox/musicbox1.jpg
   caption: ""
-  teaser: /galleries/musicbox/musicbox1.png
+  teaser: /galleries/musicbox/musicbox1-th.jpg
 categories: projects
 gallery:
-  - url: /galleries/musicbox/musicbox1.png
-    image_path: galleries/musicbox/musicbox1.png
+  - url: /galleries/musicbox/musicbox1.jpg
+    image_path: galleries/musicbox/musicbox1-th.jpg
     alt:
     title:
-  - url: /galleries/musicbox/musicbox2.png
-    image_path: galleries/musicbox/musicbox2.png
+  - url: /galleries/musicbox/musicbox2.jpg
+    image_path: galleries/musicbox/musicbox2-th.jpg
     alt:
     title:
-  - url: /galleries/musicbox/musicbox3.png
-    image_path: galleries/musicbox/musicbox3.png
+  - url: /galleries/musicbox/musicbox3.jpg
+    image_path: galleries/musicbox/musicbox3-th.jpg
     alt:
     title:
-  - url: /galleries/musicbox/musicbox4.png
-    image_path: galleries/musicbox/musicbox4.png
+  - url: /galleries/musicbox/musicbox4.jpg
+    image_path: galleries/musicbox/musicbox4-th.jpg
     alt:
     title:
-  - url: /galleries/musicbox/musicbox5.png
-    image_path: galleries/musicbox/musicbox5.png
+  - url: /galleries/musicbox/musicbox5.jpg
+    image_path: galleries/musicbox/musicbox5-th.jpg
     alt:
     title:
 ---
