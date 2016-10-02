@@ -7,33 +7,33 @@ tags: [ gameboy, fusion360, design ]
 comments: true
 share: true
 header:
-  image: /galleries/Z-Boy/z-boy1.png
+  image: /galleries/Z-Boy/z-boy1.jpg
   caption: "Z-Boy's first render"
-  teaser: /galleries/Z-Boy/z-boy1.png
+  teaser: /galleries/Z-Boy/z-boy1-th.jpg
 categories: projects
 gallery:
-  - url: /galleries/Z-Boy/z-boy1.png
-    image_path: galleries/Z-Boy/z-boy1.png
+  - url: /galleries/Z-Boy/z-boy1.jpg
+    image_path: galleries/Z-Boy/z-boy1-th.jpg
     alt:
     title:
-  - url: /galleries/Z-Boy/z-boy2.png
-    image_path: galleries/Z-Boy/z-boy2.png
+  - url: /galleries/Z-Boy/z-boy2.jpg
+    image_path: galleries/Z-Boy/z-boy2-th.jpg
     alt:
     title:
-  - url: /galleries/Z-Boy/z-boy3.png
-    image_path: galleries/Z-Boy/z-boy3.png
+  - url: /galleries/Z-Boy/z-boy3.jpg
+    image_path: galleries/Z-Boy/z-boy3-th.jpg
     alt:
     title:
-  - url: /galleries/Z-Boy/z-boy4.png
-    image_path: galleries/Z-Boy/z-boy4.png
+  - url: /galleries/Z-Boy/z-boy4.jpg
+    image_path: galleries/Z-Boy/z-boy4-th.jpg
     alt:
     title:
-  - url: /galleries/Z-Boy/z-boy5.png
-    image_path: galleries/Z-Boy/z-boy5.png
+  - url: /galleries/Z-Boy/z-boy5.jpg
+    image_path: galleries/Z-Boy/z-boy5-th.jpg
     alt:
     title:
-  - url: /galleries/Z-Boy/z-boy6.png
-    image_path: galleries/Z-Boy/z-boy6.png
+  - url: /galleries/Z-Boy/z-boy6.jpg
+    image_path: galleries/Z-Boy/z-boy6-th.jpg
     alt:
     title:  
 ---
