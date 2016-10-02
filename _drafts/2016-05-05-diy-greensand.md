@@ -1,11 +1,8 @@
 ---
-layout: post
 title: DIY Greensand
-excerpt: "Playsand and Kitty Litter = I'm a MAN!"
+excerpt: "Making playsand suitable for casting aluminum"
 modified: 2016-05-14T00:00:00.000Z
-tags: [ diy, greensand, green, sand, metal, casting ]
-comments: true
-share: false
+tags: [ diy, greensand, metalcasting ]
 ---
 
 # In the beginning, there was play sand
@@ -33,4 +30,6 @@ To make 10L of greensand we will need:
 4. Sacrificial measuring cup to 1L
 5. A really long Spotify playlist
 
-That's right, that 50lb bag of sand will sift down to about 9L of semi-suitable playsand. ![50 pound bag of playsand]({{ site.baseurl }}/images/DIY_Greensand/PlaySand.jpg "So much sand!")
+That's right, that 50lb bag of sand will sift down to about 9L of semi-suitable playsand.
+
+![50 pound bag of playsand](/images/DIY_Greensand/PlaySand.jpg "So much sand!"){: .align-center}{: width="320px"}
