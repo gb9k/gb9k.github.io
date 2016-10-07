@@ -7,11 +7,35 @@ header:
 excerpt: "Personal blog of Georgio Mosqueda. Home of the wooden PiBoy (production title). Follow this autodidact hell bent on learning how to make all sorts of cool stuff in a tiny one car garage. "
 intro:
   - excerpt: 'Get updates when new stuff is posted  <a href="https://twitter.com/georgiom" class="btn btn--twitter" target="_blank"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span>@georgiom</span></a>'
+feature_row:
+  - image_path: /galleries/gbmacro/Build/faceplate-th.jpg
+    alt: "Gameboy Macro faceplate CAD view"
+    title: "Gameboy Macro"
+    excerpt: "3d-print your own Gameboy Macro Faceplate."
+    url: "https://github.com/gb9k/GameboyMacro"
+    btn_label: "Read More"
+    btn_class: "btn--info"
+  - image_path: /galleries/PiBoy/PiBoy4-th.jpg
+    alt: "PiBoy"
+    title: "PiBoy Zero"
+    excerpt: "Have a gander at some more PiBoy renders."
+    url: "/projects/piboy"
+    btn_label: "See More"
+    btn_class: "btn--info"
+  - image_path: emo-poetry-th.jpg
+    alt: "Writing 'emo poetry' in a corner"
+    title: "Blog"
+    excerpt: "Writings about things that may or may not be useful."
+    url: "/posts"
+    btn_label: "Read on"
+    btn_class: "btn--info"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include base_path %}
+
+{% include feature_row %}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 

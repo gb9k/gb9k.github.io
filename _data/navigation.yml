@@ -5,3 +5,6 @@ main:
 
   - title: "About"
     url: /about/index.html
+
+  - title: "Posts"
+    url: /posts/index.html
