@@ -31,4 +31,4 @@ More specifically, I essentially attended every 'University of Google' class I c
 
 Wait, what were we talking about again? Oh yeah, learning, plans, and how I'd do it all again. I learned from failure a *lot*. Plan on it. Expect it. Welcome it. Ask yourself how you failed, learn from it, and implement a fix.
 
-Well, it's either that or take out your rage on a never ending horde of paper targets. 
+Well, it's either that or take out your rage on a never ending horde of paper targets.
