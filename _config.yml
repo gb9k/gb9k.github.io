@@ -11,7 +11,7 @@ title                    : "Geobot Nine Thousand"
 title_separator          : "|"
 name                     : "Georgio Mosqueda"
 description              : "Making cool stuff for retro gaming nerds."
-url                      : "http://gb9k.com"
+url                      : "http://127.0.0.1:4000"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "teaser.png"
@@ -69,10 +69,10 @@ social:
   links: # An array of links to social media profiles
 
 # Analytics
-analytics:
-  provider               : "google"
-  google:
-    tracking_id          : UA-74411910-1
+# analytics:
+#   provider               : "google"
+#   google:
+#     tracking_id          : UA-74411910-1
 
 
 # Site Author
